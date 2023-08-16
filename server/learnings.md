@@ -1,0 +1,1 @@
+1. The functions for *routes* are defined in the controller folder as Classes to increase maintainability. 
